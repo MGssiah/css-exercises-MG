@@ -1,1 +1,25 @@
 /* Add CSS Styling */
+.odd-number,
+.class-1 {
+    font-family: Verdana, sans-serif;
+    background-color: hsla(0, 100%, 76%, 0.613);
+}
+.bigger {
+    font-size: 30px;
+}
+.class-1 {
+    font-size: 21px;
+}
+.even-number {
+    font-family: 'Times New Roman', Times, serif;
+
+}
+#no-2 {
+    font-size: 36px;
+    color: blue
+}
+#no-4 {
+    font-size: 24px;
+    font-weight: bold;
+    background-color: hsla(119, 100%, 64%, 0.64);
+}
